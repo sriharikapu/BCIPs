@@ -1,4 +1,4 @@
-# BCIPs [![Telegram](https://badges.telegram.im/Join%20Chat.svg)](https://t.me/BitcoinCash123)
+# BCIPs [![Telegram][(https://img.shields.io/discord/:serverId.svg)](https://t.me/BitcoinCash123)
 The Bitcoin Cash Improvement Proposals (BCIPs) describe standards for the Bitcoin cash platform, including new protocol specifications, client APIs, and smart contract standards.
 
 A browsable version of all current and draft BCIPs can be found here.
